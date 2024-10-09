@@ -1,4 +1,4 @@
-# Decision-Model-for-BLC-Design-Patterns
+# Decision Model for BLC Design Patterns: Replication Package
 
 This repository contains the materials and results from a Systematic Literature Review (SLR) conducted in seven steps:
 
